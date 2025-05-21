@@ -1,5 +1,5 @@
 {
-  "en": "",
-  "fr" : "",
-  "es" : ""	
+  "en": "Utilization calculation for machines will be unavailable from 5pm EDT to 6am EDT.  The machine Dashboard will not have up-to-date utilization information during this period.",
+  "fr" : "Le calcul de l'utilisation des machines sera indisponible de 17 h à 6 h HAE. Le tableau de bord des machines ne contiendra pas d'informations d'utilisation à jour pendant cette période.",
+  "es" : "El cálculo de utilización de las máquinas no estará disponible entre las 17:00 y las 6:00 EDT. El panel de control de las máquinas no tendrá información actualizada sobre su utilización."	
 }
